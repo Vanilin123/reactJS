@@ -1,0 +1,1 @@
+import{j as e}from"./index-D1PeRTMW.js";const s=()=>e.jsxs("div",{className:"page-wrapper",children:[e.jsx("h1",{children:"Home"}),e.jsx("p",{children:"Эта практическое задание поможет вам применить свои знания по оптимизации загрузки страницы"})]});export{s as HomePage,s as default};

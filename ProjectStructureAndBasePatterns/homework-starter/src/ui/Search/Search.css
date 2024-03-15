@@ -1,0 +1,10 @@
+.search{
+    all: unset;
+    grid-column: 12 span;
+    padding: 20px;
+    background-color: #fff4f0;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    border-radius: 15px;
+    border: 1px solid black
+}

@@ -1,0 +1,12 @@
+
+.card{
+grid-column: 3 span;
+padding: 15px;
+background-color: #fff4f0;
+border-radius: 15px;
+}
+
+.card-img{
+    max-width: 100%;
+    min-height: 200px;
+}
